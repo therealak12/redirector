@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/therealak12/Desktop/academy/hw1/hw1.csproj",
+      "projectUniqueName": "/home/therealak12/Desktop/academy/redirector/hw1.csproj",
       "projectName": "hw1",
-      "projectPath": "/home/therealak12/Desktop/academy/hw1/hw1.csproj",
+      "projectPath": "/home/therealak12/Desktop/academy/redirector/hw1.csproj",
       "packagesPath": "/home/therealak12/.nuget/packages/",
-      "outputPath": "/home/therealak12/Desktop/academy/hw1/obj/",
+      "outputPath": "/home/therealak12/Desktop/academy/redirector/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/therealak12/.nuget/NuGet/NuGet.Config"
